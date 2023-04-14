@@ -10,7 +10,6 @@ set "hex=0123456789ABCDEF"
 set /p INPUT=Enter Brightness (0-100):
 set /a high=%INPUT% / 16
 set /a low=%INPUT% %% 16
-echo in hexadecimal %INPUT% = !hex:~%high%,1!!hex:~%low%,1!
 
 echo Windows Registry Editor Version 5.00 > windows-surface-brightness-controll-service.reg
 
