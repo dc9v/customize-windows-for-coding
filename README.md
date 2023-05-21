@@ -28,3 +28,7 @@
   Capslock 키 무효처리.
 
   (코딩을 하면서 Capslock키는 실수가 아닌 이상 눌러본 적이 없어서...)
+
+- keyboard-speed-up.reg
+
+  키보드 반응속도를 뻐르게
